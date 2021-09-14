@@ -40,7 +40,9 @@ img {
     clear: both;
   }
 
-  
+  #intro{
+      padding: 25px;
+  }
 
   #red{
       min-height: 150px;  
