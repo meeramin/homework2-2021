@@ -35,22 +35,25 @@ img {
     clear: both;
   }
 
-  div{
-    min-height: 150px;  
-    padding: 25px;
-  }
+  
 
   #red{
-    background-color: #ff0000;
-    text-align: right;
+      min-height: 150px;  
+      padding: 25px;
+      background-color: #ff0000;
+      text-align: right;
   }
 
   #blue{
+      min-height: 150px;  
+      padding: 25px;
       background-color: #0000ff;
       text-align: left;
   }
 
   #yellow{
+      min-height: 150px;  
+      padding: 25px;
       background-color: #ffff00;
       text-align:right;
       color:#000000;
@@ -59,6 +62,8 @@ img {
   }
 
   #green{
+      min-height: 150px;  
+      padding: 25px;
       background-color: #008000;
       text-align: left;
   }
