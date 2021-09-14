@@ -40,6 +40,7 @@ img {
     clear: both;
   }
 
+
   #intro{
       padding: 25px;
   }
@@ -64,9 +65,17 @@ img {
       background-color: #ffff00;
       text-align:right;
       color:#000000;
-      text-shadow: 4px 2px 2px #c7e2c7;
+
       
   }
+
+  #yellow h2 {
+      text-shadow: 4px 2px 2px #c7e2c7;
+
+
+  }
+
+  
 
   #green{
       min-height: 150px;  
